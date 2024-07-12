@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-None `¯\_(ツ)_/¯`
+
   
 ## Workshop
 
